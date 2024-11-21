@@ -51,5 +51,5 @@ Internship at L&T Technology Services (Feb 2022 - May 2022)
 
 📫 Connect with Me
 
-GitHub: 
+GitHub: https://github.com/cvnjaideep
 
