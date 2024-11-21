@@ -4,7 +4,7 @@
 
 🌟 About Me
 
-I am a dedicated software engineer with expertise in programming and a passion for learning and solving complex challenges. My academic background, combined with hands-on project experience, has equipped me with the skills to tackle real-world problems effectively. I am currently pursuing a Master’s degree in Computer Science at the University of Missouri-Kansas City (UMKC), focusing on emerging technologies like blockchain.
+I am a dedicated software engineer with expertise in programming and a passion for learning and solving complex challenges. My academic background, combined with hands-on project experience, has equipped me with the skills to tackle real-world problems effectively. I am currently pursuing a Master’s degree in Computer Science at the University of Missouri-Kansas City.
 
 🛠️ Skills
 
@@ -24,6 +24,7 @@ Internship at L&T Technology Services
 Contributed to the development and testing of deep learning models for healthcare applications.
 Gained hands-on experience in collaborative team environments, problem-solving, and presenting project deliverables.
 Learned practical applications of Python programming and machine learning.
+
 💻 Projects
 
 Project Name	
