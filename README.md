@@ -47,3 +47,8 @@ SRM Institute of Science and Technology | 2018 - 2022
 
 📜 Certifications
 Internship at L&T Technology Services (Feb 2022 - May 2022)
+
+📫 Connect with Me
+
+GitHub: 
+
